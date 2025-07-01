@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sc">
 <context>
     <name>Clipboard</name>
     <message>
-        <location filename="../src/clipboard.cpp" line="60"/>
         <source>Copy color %1 to clipboard</source>
-        <translation>Kopiraj barvu %1 v schránku</translation>
+        <translation>Copia color %1 al clipboard</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/main.cpp" line="38"/>
         <source>Deepin Picker is a quick and easy screen color picking tool. RGB and HEX codes are obtained on click and auto saved to the clipboard.</source>
-        <translation>Deepin Picker je rýchly a jednoduchý nástroj na vyber farby z obrazovky. RGB a HEX kódy sa získavajú kliknutím a automaticky ukladajú do schránky.</translation>
+        <translation>Deepin Picker e un strumento rapidu e facilu par cumprendere e selezionare i colori da schermo. I codici RGB e HEX son ottenuti par clic e salvati automaticamente nantu a l’incolla.</translation>
     </message>
     <message>
-        <location filename="../src/main.cpp" line="65"/>
         <source>Deepin Picker</source>
         <translation>Deepin Picker</translation>
     </message>

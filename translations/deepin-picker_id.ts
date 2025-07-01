@@ -14,7 +14,7 @@
     <message>
         <location filename="../src/main.cpp" line="38"/>
         <source>Deepin Picker is a quick and easy screen color picking tool. RGB and HEX codes are obtained on click and auto saved to the clipboard.</source>
-        <translation>Deepin Picker adalah alat pemilihan warna layar yang cepat dan mudah. Kode RGB dan HEX diperoleh saat mengklik dan disimpan otomatis ke clipboard.</translation>
+        <translation>Deepin Picker adalah alat pemilihan warna layar yang cepat dan mudah. Kode RGB dan HEX diperoleh saat mengklik dan disimpan otomatis ke papan klip.</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="65"/>
